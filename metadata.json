@@ -1,0 +1,5 @@
+{
+  "name": "ThermoScan AI",
+  "description": "An advanced AI-powered tool for analyzing thermographic images for early signs of breast abnormalities. This prototype provides a classification, confidence score, and an AI-generated summary. This is not a medical device.",
+  "requestFramePermissions": []
+}
